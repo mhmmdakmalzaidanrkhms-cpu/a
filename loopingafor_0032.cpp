@@ -14,4 +14,7 @@ int main() {
         cout << "Nilai i : " << i << " Teknologi Informasi" << endl;
 
     }
-    
+    cout << endl;
+
+    return 0;
+}
